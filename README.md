@@ -40,3 +40,6 @@ JavaScript
 
 📄 License
 This project is licensed under the GPL-3.0 License.
+
+
+📌 Want to contribute? Read our [Contributing Guide](.github/CONTRIBUTING.md)
