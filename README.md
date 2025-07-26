@@ -42,4 +42,4 @@ JavaScript
 This project is licensed under the GPL-3.0 License.
 
 
-📌 Want to contribute? Read our [Contributing Guide](.github/CONTRIBUTING.md)
+📌 Want to contribute? Read our [Contributing Guide](.github/ISSUE_TEMPLATE/CONTRIBUTING.md)
